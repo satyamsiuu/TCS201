@@ -1,5 +1,5 @@
 /*
-1)Input a m×n matrix and find Sum of particular row inputted by the user.
+1)Input a rXc matrix and find Sum of particular row inputted by the user.
 */
 #include<stdio.h>
 int main()
